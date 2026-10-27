@@ -1,7 +1,24 @@
 {
-  "targetGroups": [],
+  "targetGroups": [
+    {
+      "jid": "120363431397348817@g.us",
+      "name": "Hi"
+    },
+    {
+      "jid": "120363411092038391@g.us",
+      "name": "j"
+    },
+    {
+      "jid": "120363414581409783@g.us",
+      "name": "mini bot"
+    },
+    {
+      "jid": "120363428305689707@g.us",
+      "name": "Test"
+    }
+  ],
   "allowedNumbers": [],
-  "enabled": false,
+  "enabled": true,
   "vvEnabled": false,
   "featureDefaultsV": 3
 }

@@ -1,0 +1,209 @@
+{
+  "list": [
+    {
+      "id": "rc_1793087659119_9xa3q",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "13:55",
+        "trackingNo": "4826651265",
+        "receiptNo": "202609174340949",
+        "referenceCode": "03663-03663-897535669",
+        "senderName": "İlhan Deveboynu",
+        "senderIban": "TR340015700000000149658575",
+        "receiverName": "Mir Sayed Ali Sadat",
+        "receiverIban": "TR820001009011071904505004",
+        "description": "Bireysel Ödeme",
+        "_visionMeta": {
+          "provider": "groq",
+          "model": "qwen/qwen3.8-27b",
+          "keyIndex": 0,
+          "ms": 962,
+          "attempts": 1
+        },
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4826651265"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1793087659119,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431397348817@g.us",
+        "fromMe": false,
+        "id": "A5D43B03701B6613CB1790C88518223F",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1793087660721_5lfpi",
+      "data": {
+        "isReceipt": true,
+        "bank": "DA AFGHANISTAN BANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "AFN",
+        "date": "03/08/1404",
+        "time": "14:25",
+        "trackingNo": "TRX-20261025-4587",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "احمد محمدی",
+        "senderIban": "102034567890",
+        "receiverName": "علی رضا کریمی",
+        "receiverIban": "104056781234",
+        "description": "انتقال وجه (داخلی)",
+        "_visionMeta": {
+          "provider": "groq",
+          "model": "qwen/qwen3.8-27b",
+          "keyIndex": 1,
+          "ms": 772,
+          "attempts": 1
+        },
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "122600479035526",
+      "timestamp": 1793087660721,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431397348817@g.us",
+        "fromMe": false,
+        "id": "A513AD55E5EB78323B8032A5CCFD3D43",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1793087664168_08rbt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1443/NİLÜFER/BURSA ŞUBESİ",
+        "amount": "80.000,00",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "14:30:21",
+        "trackingNo": "",
+        "receiptNo": "3/1",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR820001009011071904505004",
+        "receiverName": "BURHAN BALA",
+        "receiverIban": "TR480001009011119689005001",
+        "description": "Alacaklı Şube : 4000-ZİRAAT SÜPER ŞUBE",
+        "_visionMeta": {
+          "provider": "groq",
+          "model": "qwen/qwen3.8-27b",
+          "keyIndex": 3,
+          "ms": 967,
+          "attempts": 1
+        },
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20260916|14:30:21|80000|TR480001009011119689005001"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1793087664168,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431397348817@g.us",
+        "fromMe": false,
+        "id": "A58E1F9DB34183EEE9646B9BD9FF082D",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1793087665846_fklox",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "30000.00",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "12:05:42",
+        "trackingNo": "2934783159",
+        "receiptNo": "",
+        "referenceCode": "2026012975708204",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Burhan bala",
+        "receiverIban": "TR480001009011119689005001",
+        "description": "",
+        "_visionMeta": {
+          "provider": "groq",
+          "model": "qwen/qwen3.8-27b",
+          "keyIndex": 4,
+          "ms": 793,
+          "attempts": 1
+        },
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20260916|12:05:42|30000|TR480001009011119689005001"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1793087665846,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431397348817@g.us",
+        "fromMe": false,
+        "id": "A5C5A2881BB8CB08233F12055551FF9C",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1793087667538_931ep",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "24/10/2026",
+        "time": "14:32:07",
+        "trackingNo": "123456789",
+        "receiptNo": "",
+        "referenceCode": "REF88912",
+        "senderName": "Ali Yılmaz",
+        "senderIban": "TR330006100519786457841326",
+        "receiverName": "Mehmet Demir",
+        "receiverIban": "TR120004600012345678901234",
+        "description": "Kira Ödemesi",
+        "_visionMeta": {
+          "provider": "groq",
+          "model": "qwen/qwen3.8-27b",
+          "keyIndex": 5,
+          "ms": 921,
+          "attempts": 1
+        },
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|123456789"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1793087667538,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431397348817@g.us",
+        "fromMe": false,
+        "id": "A5CED91FB1472F7A8EDD0D9C4F011A20",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    }
+  ]
+}

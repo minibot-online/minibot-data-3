@@ -13,7 +13,10 @@
     },
     "up_bashir_906f": {
       "allowDup": true,
-      "allowConfirm": true
+      "allowConfirm": true,
+      "features": {
+        "vv": true
+      }
     }
   },
   "defaults": {

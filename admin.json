@@ -1,0 +1,19 @@
+{
+  "users": {
+    "trial_bashir_7ed6": {
+      "allowDup": true,
+      "allowConfirm": true,
+      "features": {
+        "vv": true
+      }
+    },
+    "trial_1234_b4e9": {
+      "allowDup": true,
+      "allowConfirm": true
+    }
+  },
+  "defaults": {
+    "allowDup": false,
+    "allowConfirm": false
+  }
+}

@@ -17,6 +17,13 @@
       "features": {
         "vv": true
       }
+    },
+    "up_saboor_d40f": {
+      "allowDup": true,
+      "allowConfirm": true,
+      "features": {
+        "vv": true
+      }
     }
   },
   "defaults": {
